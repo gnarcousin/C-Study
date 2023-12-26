@@ -2,12 +2,13 @@
 
 ```C#
 Console.WriteLine("Hello World");
-/*
-C#의 기본 출력은 Console.WriteLine으로 이루어짐
-Console = 콘솔 창을 나타내는 형식
-WriteLine = 텍스트를 해당 텍스트 콘솔에 출력함
-*/
+```
 
+> C#의 기본 출력은 `Console.WriteLine`으로 이루어짐
+> `Console` = 콘솔 창을 나타내는 형식
+> `WriteLine` = 텍스트를 해당 텍스트 콘솔에 출력함
+
+```
 string aFriend = "Bill";  // 문자열 자료형 변수 지정
 Console.WriteLine(aFriend);
 aFriend = "Maira";        // 선언한 변수에 여러 값을 할당 가능함. 이 때 변수의 선언과 초기 할당은 유지되어야 함.
