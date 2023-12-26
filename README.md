@@ -5,4 +5,5 @@
 
 https://www.youtube.com/watch?v=u8T_h3Yn-xQ&list=PL4SIC1d_ab-Y-bBKojxhtFWwNpawMM1h5&index=1
 
-사용 IDE = VS 사용 예정
+## 사용 IDE
+VS
