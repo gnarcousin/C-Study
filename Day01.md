@@ -16,6 +16,7 @@ aFriend = "Maira";
 > 자료형을 앞에 붙이는 것으로 자료형을 선언 가능함  
 > 선언한 변수에 여러 값을 할당 가능함. 이 때 변수의 선언과 초기 할당은 유지되어야 함
 
+```
 Console.WriteLine(aFriend);
 Console.WriteLine("Hello" + aFriend); // +를 이용해 변수 및 상수 문자열 추가 가능
 Console.WriteLine($"Hello {aFriend}");
