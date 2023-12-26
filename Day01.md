@@ -25,7 +25,7 @@ Console.WriteLine("Hello" + aFriend);
 ```C#
 Console.WriteLine($"Hello {aFriend}");
 ```
-> **문자열 보간** = `{` 및 `}` 문자 사이에 변수를 배치해 텍스트를 변수 값으로 바꾸도록 함
+> **문자열 보간** = `{` 및 `}` 문자 사이에 변수를 배치해 텍스트를 변수 값으로 바꾸도록 함  
 > 문자열의 여는 따옴표 앞에 `$`를 추가해 중괄호 사이 문자열 안에 변수 포함 가능
 
 ```C#
@@ -56,8 +56,8 @@ trimmedGreeting = greeting.Trim();
 Console.WriteLine($"[{trimmedGreeting}]");
 ```
 
-> **문자열에서 공백을 잘라내는 것** = `Trim` 사용. 이때 `TrimStart`나 `TrimEnd`를 지정할 수 있는데
-> 각각 좌측의 공백이나 우측의 공백을 지워주는 역할을 함. 지정 안하면 둘 다 지워줌
+> **문자열에서 공백을 잘라내는 것** = `Trim` 사용. 이때 `TrimStart`나 `TrimEnd`를 지정할 수 있는데  
+> 각각 좌측의 공백이나 우측의 공백을 지워주는 역할을 함. 지정 안하면 둘 다 지워줌  
 > `Trim`은 새 문자열을 만들어 반환하나 원래 메시지를 변경하진 않음
 
 ```C#
@@ -70,7 +70,7 @@ Console.WriteLine(sayHello.ToUpper());
 Console.WriteLine(sayHello.ToLower());
 ```
 
-> `Replace` 메소드는 두 매개 변수를 사용해 검색할 텍스트, **바꿀 텍스트** 순으로 작성
+> `Replace` 메소드는 두 매개 변수를 사용해 검색할 텍스트, **바꿀 텍스트** 순으로 작성  
 > `ToUpper`, `ToLower`를 활용하면 **대소문자 작성**에 편리
 
 ```C#
@@ -85,5 +85,5 @@ Console.WriteLine(songLyrics.EndsWith("hello"));
 Console.WriteLine(songLyrics.EndsWith("goodbye"));
 ```
 
-> `Contains`는 **검색한 문자열을 찾았는지**에 대한 **bool값을 반환**해줌
+> `Contains`는 **검색한 문자열을 찾았는지**에 대한 **bool값을 반환**해줌  
 > `StartsWith`, `EndsWith`으로 비슷한 작동이 가능
