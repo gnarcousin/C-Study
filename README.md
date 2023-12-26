@@ -9,6 +9,8 @@ https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc
 MS 제공 자습서  
 https://learn.microsoft.com/ko-kr/dotnet/csharp/tour-of-csharp/tutorials/  
 유니티 + C# 공부 블로그
-https://codeposting.tistory.com/entry/C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1-NET-Framework-VSCode-%EC%84%A4%EC%B9%98
+https://codeposting.tistory.com/entry/C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1-NET-Framework-VSCode-%EC%84%A4%EC%B9%98  
+유니티 공식 사이트  
+https://learn.unity.com/project/rubiyi-moheom-2d-cogeubjayong
 ## 사용 IDE
 VS
