@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=u8T_h3Yn-xQ&list=PL4SIC1d_ab-Y-bBKojxhtFWwNpawMM
 프로그래머스  
 https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&page=3  
 MS 제공 자습서  
-https://learn.microsoft.com/ko-kr/dotnet/csharp/tour-of-csharp/tutorials/
+https://learn.microsoft.com/ko-kr/dotnet/csharp/tour-of-csharp/tutorials/  
+유니티 + C# 공부 블로그
+https://codeposting.tistory.com/entry/C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1-NET-Framework-VSCode-%EC%84%A4%EC%B9%98
 ## 사용 IDE
 VS
